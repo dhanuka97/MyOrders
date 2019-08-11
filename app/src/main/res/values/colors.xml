@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00FFFF</color>
+    <color name="colorPrimaryDark">#070707</color>
+    <color name="colorAccent">#DF1A0C</color>
+    <color name="clr1">#000000</color>
+    <color name="radius">#FFF2F5F5 </color>
+    <color name="mainClr">#051EC0</color>
+    <color name="btnclr1">#FF60A21F</color>
+    <color name="btnclr2">#FFDF1A0C</color>
+    <color name="linkColor">#FF051EC0</color>
+    <color name="statusAndAdminote">#FF3F7A04</color>
+    <color name="gradStart">#63C9FF</color>
+    <color name="gradEnd">#5F9EA0</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="headings">#3797CF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="address">#2F7092</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="solidCircle">#80FFFFFF</color>
+    <color name="dcolorPrimary">#1b41d8</color>
+    <color name="dcolorPrimaryDark">#1b41d8</color>
+    <color name="dcolorAccent">#1b41d8</color>
+</resources>
